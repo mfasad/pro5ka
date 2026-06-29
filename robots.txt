@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pro5ka.vercel.app/sitemap.xml
